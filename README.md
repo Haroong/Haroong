@@ -5,7 +5,7 @@
 👩‍💻 Front-end web developer
 
 ---
-#### ✌️ I’m currently learning ...
+#### ✌️ I’m currently learning...
  - React
  - Javascript
  - Algorithm
@@ -14,10 +14,10 @@
 - Node.js
 - React Native
 
-#### 😙 etc ...
+#### 😙 etc
 - 🏃‍♀️ Running
 - 🎻 Viola
 - 🍁 Maplestory
 
-#### 📧 How to contact me ...  
+#### 📧 How to contact me  
 absolutecool18@gmail.com
