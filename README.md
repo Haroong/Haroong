@@ -1,8 +1,8 @@
 # HyeRyun Cho
 
-👩‍🎓 Seoul Women's Univ. Department of Multimedia Engineering
-
 👩‍💻 Front-end web developer
+
+👩‍🎓 Seoul Women's Univ. Department of Multimedia Engineering
 
 ---
 
