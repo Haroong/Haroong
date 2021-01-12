@@ -13,6 +13,7 @@
  
 #### 👀 Also interested in...
 - Node.js
+- Python
 - React Native
 
 #### 😙 etc
