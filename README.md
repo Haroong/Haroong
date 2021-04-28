@@ -8,7 +8,7 @@
 
 #### ✌️ I’m currently learning...
  - React
- - Javascript
+ - Javascript + Typescript
  - Algorithm
  
 #### 👀 Also interested in...
