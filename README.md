@@ -7,17 +7,16 @@
 ---
 
 #### ✌️ I’m currently learning...
- - React
- - Javascript + Typescript
- - Algorithm
+ - C#
+ - Database
  
 #### 👀 Also interested in...
-- Node.js
 - Python
-- React Native
+- Unity
+- Algorithm
 
 #### 😙 etc
-- 🏃‍♀️ Running
+- ⛰ Hiking
 - 🎻 Viola
 - 🍁 Maplestory
 
