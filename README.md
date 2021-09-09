@@ -1,6 +1,6 @@
 # HyeRyun Cho
 
-👩‍💻 Front-end web developer
+👩‍💻 Developer
 
 👩‍🎓 Seoul Women's Univ. Department of Multimedia Engineering
 
