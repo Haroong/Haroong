@@ -14,6 +14,7 @@
 - Python
 - Unity
 - Algorithm
+- Typescript
 
 #### 😙 etc
 - ⛰ Hiking
