@@ -7,7 +7,7 @@
 ---
 
 #### ✌️ I’m currently learning...
- - C#
+ - JavaScript
  - Database
  
 #### 👀 Also interested in...
