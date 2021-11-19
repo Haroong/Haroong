@@ -12,12 +12,11 @@
  
 #### 👀 Also interested in...
 - Python
-- Unity
 - Algorithm
 - Typescript
 
 #### 😙 etc
-- ⛰ Hiking
+- 🏃‍♀️ Running
 - 🎻 Viola
 - 🍁 Maplestory
 
