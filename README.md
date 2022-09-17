@@ -7,16 +7,11 @@
 ---
 
 #### ✌️ I’m currently learning...
- - JavaScript
- - Database
- 
-#### 👀 Also interested in...
-- Python
-- Algorithm
-- Typescript
+ - Python
+ - Algorithm
 
 #### 😙 etc
-- 🏃‍♀️ Running
+- 🏊‍♀️ Swimming
 - 🎻 Viola
 - 🍁 Maplestory
 
