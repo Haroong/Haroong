@@ -1,6 +1,6 @@
 # HyeRyun Cho
 
-👩‍💻 Developer
+👩‍💻 Backend Developer
 
 👩‍🎓 Seoul Women's Univ. Department of Multimedia Engineering
 
@@ -9,6 +9,7 @@
 #### ✌️ I’m currently learning...
  - Python
  - Algorithm
+ - CS
 
 #### 😙 etc
 - 🏊‍♀️ Swimming
