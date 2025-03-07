@@ -6,17 +6,16 @@
 
 ---
 
-#### ✌️ I’m currently learning...
- - Python
+#### 🍀 study
+ - C#
  - Algorithm
- - CS
 
-#### 😙 etc
+#### 😙 enjoy
 - 🏊‍♀️ Swimming
 - 🎻 Viola
-- 🍁 Maplestory
 
-#### 📧 How to contact me  
-absolutecool18@gmail.com
+#### 📧 etc  
+- email: absolutecool18@gmail.com
+- blog: https://whatsinmyhead.tistory.com/
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=batsy_22)](https://solved.ac/batsy_22/)
